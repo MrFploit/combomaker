@@ -12,9 +12,9 @@ d8P  Y8 .8P  Y8. 88'YbdP`88 88  `8D .8P  Y8.
 8b      88    88 88  88  88 88~~~b. 88    88 
 Y8b  d8 `8b  d8' 88  88  88 88   8D `8b  d8' 
  `Y88P'  `Y88P'  YP  YP  YP Y8888P'  `Y88P'  
-                                             
-                                             
-.88b  d88.  .d8b.  db   dD d88888b d8888b.   
+                                             t.me/LinuxArmy
+                                             ---------------
+.88b  d88.  .d8b.  db   dD d88888b d8888b.   Code by it4min
 88'YbdP`88 d8' `8b 88 ,8P' 88'     88  `8D   
 88  88  88 88ooo88 88,8P   88ooooo 88oobY'   
 88  88  88 88~~~88 88`8b   88~~~~~ 88`8b     
